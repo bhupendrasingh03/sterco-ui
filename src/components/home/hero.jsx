@@ -40,6 +40,13 @@ export default function Hero() {
                     </SwiperSlide>
                 ))}
             </Swiper>
+
+            <div className='container content-over-hero'>
+                <div className='inner-content'>
+                    <span className='smalll'>Aven</span>
+                    <h1 className='heading'>PASSIONATE ABOUT SAVING LIVES</h1>
+                </div>
+            </div>
         </div>
     )
 }
