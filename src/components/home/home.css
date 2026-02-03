@@ -193,6 +193,12 @@
         line-height: 40px;
         font-size: 43px;
     }
+    .content-over-hero {
+        bottom: 20%;
+    }
+    .content-over-hero .inner-content {
+        margin-left: 0;
+    }
 
     .home-overview {
         padding: 70px 0;
